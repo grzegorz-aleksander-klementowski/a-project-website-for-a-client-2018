@@ -21,7 +21,5 @@ The main goal of this project was to create an online presence for the woodworki
 
 ## Live Demo
 
-If the website is hosted, you can provide a link to the live demo here.
-
-For more information on how to add images to your README, you can check out the [GitHub Flavored Markdown documentation](https://guides.github.com/features/mastering-markdown/).
+Live website is avaible here: http://woodworking-shop-website-2018.klementowski.pl/ .
 
